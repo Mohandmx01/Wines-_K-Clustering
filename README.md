@@ -1,4 +1,4 @@
-#Wine Clustering Project
+# Wine Clustering Project
 Overview
 This project aims to group similar wines using clustering algorithms, with a focus on using a weighted Euclidean distance metric to enhance clustering accuracy. The goal is to identify natural groupings of wines based on their chemical properties and characteristics.
 
